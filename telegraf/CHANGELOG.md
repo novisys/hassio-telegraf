@@ -1,4 +1,7 @@
 # All Changes will be posted here
+## 0.7.1 - 06/12/2022
+* Update to new verion of Telegraf 1.24.4
+* Update dependencies
 
 ## 0.7.0 - 29/08/2022
 * Update to new verion of Telegraf
